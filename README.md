@@ -15,7 +15,7 @@
 
 ## 二.技術棧
 
-（react18）React Hook
+（react18）React Hooks
 
 （react庫）React Router6，redux，react-lazyload，redux-thunk
 
